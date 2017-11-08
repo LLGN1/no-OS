@@ -1,0 +1,21 @@
+<map id="projects/fmcdaq2/src/app/app_iio.c" name="projects/fmcdaq2/src/app/app_iio.c">
+<area shape="rect" id="node1" title="Application IIO setup." alt="" coords="452,5,608,47"/>
+<area shape="rect" id="node2" href="$error_8h.html" title="Error codes definition." alt="" coords="249,95,313,121"/>
+<area shape="rect" id="node3" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="544,169,604,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="593,95,693,121"/>
+<area shape="rect" id="node6" href="$iio__app_8h.html" title="Header file of iio_app." alt="" coords="45,169,124,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="718,95,827,121"/>
+<area shape="rect" id="node11" href="$fmcdaq2_2src_2app_2app__iio_8h.html" title="Application IIO setup." alt="" coords="388,95,467,121"/>
+<area shape="rect" id="node18" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="489,244,539,271"/>
+<area shape="rect" id="node19" title=" " alt="" coords="851,95,942,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="285,393,356,420"/>
+<area shape="rect" id="node7" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="7,319,98,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="141,393,223,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,393,100,420"/>
+<area shape="rect" id="node12" href="$iio__axi__adc_8h.html" title="Header file of iio_axi_adc." alt="" coords="184,169,287,196"/>
+<area shape="rect" id="node16" href="$iio__axi__dac_8h.html" title="Header file of iio_axi_dac." alt="" coords="311,169,413,196"/>
+<area shape="rect" id="node13" href="$axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="87,244,205,271"/>
+<area shape="rect" id="node15" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="229,244,324,271"/>
+<area shape="rect" id="node14" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="173,319,226,345"/>
+<area shape="rect" id="node17" href="$axi__dac__core_8h.html" title="Driver for the Analog Devices AXI&#45;DAC&#45;CORE module." alt="" coords="301,319,418,345"/>
+</map>
